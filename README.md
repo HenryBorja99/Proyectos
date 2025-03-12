@@ -1,4 +1,7 @@
-# Proyectos
-<h1> Este es mi proyecto</h1>
--Metodo
+<h1> Sistema de Registro</h1>
 
+- Estado del proyecto: En construccion.
+
+Para ejecutar el sistema, debes poner:
+
+```npm install react```
